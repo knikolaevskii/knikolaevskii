@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi, I'm Kirill 👋
+
+🎓 MSc Data Science & Artificial Intelligence Technology @ TU Delft  
+💻 RAG Systems | Agentic AI | AI Workflow Automation
 
 <!--
 **knikolaevskii/knikolaevskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
